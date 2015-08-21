@@ -1,6 +1,6 @@
 {
   "name": "rubber-es",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wrapper for elasticsearch client",
   "main": "rubber-es.js",
   "scripts": {
@@ -30,6 +30,7 @@
   },
   "dependencies": {
     "elasticsearch": "^6.1.0",
-    "lodash": "^3.10.1"
+    "lodash": "^3.10.1",
+    "q": "^1.4.1"
   }
 }
